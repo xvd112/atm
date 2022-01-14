@@ -1,0 +1,45 @@
+.nav {
+  height: 70px;
+  background-color: #8dd7bf;
+  width: 100%;
+  top: 0;
+  position: fixed;
+}
+
+.menu {
+  margin: 30px;
+  height: 180px;
+  width: 280px;
+  padding: 70px;
+}
+
+.mutasi {
+  margin: 20px;
+  height: 50px;
+  width: 150px;
+  padding: 8px;
+  font-size: 20px;
+}
+
+.menu-div {
+  margin: 20px;
+  margin-top: 90px;
+  margin-bottom: 70px;
+}
+
+.footer {
+  width: 100%;
+  height: 50px;
+  padding-left: 10px;
+  line-height: 50px;
+  background: #8dd7bf;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+}
+
+.f1 {
+  background-color: #ffbf65;
+  padding: 20px;
+  width: 90%;
+}
